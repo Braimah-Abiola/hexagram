@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="35" viewBox="0 0 192 35">
+  <g id="Group_6" data-name="Group 6" transform="translate(-150 -51)">
+    <path id="logo" d="M150,71h0l-15-8.5v-17L150,37l15,8.5v17L150,71Zm-4.7-24.772h0l-4.378,7.583,4.705,7.771,9.082.189,4.378-7.583-4.7-7.771-9.082-.189Z" transform="translate(15 14)" fill="#fff"/>
+    <text id="hexagram" transform="translate(200 79)" fill="#fff" font-size="28" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">hexagram</tspan></text>
+  </g>
+</svg>
