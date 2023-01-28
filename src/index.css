@@ -22,7 +22,7 @@
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
     #DEDEFF 0.89%,
-    #DEDEFF 17.23%,
+    #9898D6 17.23%,
     #9898D6 42.04%,
     #7E7ED5 55.12%,
     #6A6AD4 71.54%,
@@ -126,6 +126,6 @@
 }
 
 .white__gradient {
-  background: rgba(184, 184, 184, 0.6);
+  background: rgba(77, 77, 77, 0.6);
   filter: blur(750px);
 }
