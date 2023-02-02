@@ -6,6 +6,7 @@ import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
+import heroimg2 from "./heroimg2.png";
 import heroimg from "./heroimg.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
@@ -27,6 +28,11 @@ import fivestars from "./fivestars.svg"
 import project1 from "./project1.png"
 import project2 from "./project2.png"
 import project3 from "./project3.png"
+import abstract01 from "./abstract01.svg"
+import abstract02 from "./abstract02.svg"
+import podcast from "./podcast.svg"
+import tiktok from "./tiktok.svg"
+import shorts from "./shorts.svg"
 
 export {
   airbnb,
@@ -38,6 +44,7 @@ export {
   logo,
   quotes,
   heroimg,
+  heroimg2,
   send,
   shield,
   star,
@@ -58,4 +65,9 @@ export {
   project1,
   project2,
   project3,
+  abstract01,
+  abstract02,
+  podcast,
+  shorts,
+  tiktok,
 };

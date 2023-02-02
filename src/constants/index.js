@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Tailored Solutions",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Hexagram offers customized solutions for each client, ensuring that each project is approached with a unique perspective and tailored to meet the specific needs of the client",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Efficient Workflow",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "At Hexagram, we have a streamlined and efficient workflow, ensuring that projects are completed on time and within budget.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Refund Invoice",
+    title: "Cost-Effective",
     content:
-      "You can request to get your paid invoice refunded if we fail to deliver on our promises.",
+      "Hexagram offers competitive pricing and cost-effective solutions, making it accessible for content creators of all budgets",
   },
 ];
 
@@ -97,17 +97,17 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/hexagramstudio",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://www.twitter.com/hexagramstudio",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/hexagramstudio",
   },
 ];
 

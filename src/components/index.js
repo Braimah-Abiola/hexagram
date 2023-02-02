@@ -13,7 +13,8 @@ import GetStarted from "./GetStarted";
 import ContactUs from "./ContactUs"
 import BookNow from "./BookNow";
 import PreviousProjects from "./PreviousProjects";
-
+import Services from "./Services";
+import ServicesItems from "./ServicesItems";
 
 export {
   Navbar,
@@ -31,4 +32,6 @@ export {
   ContactUs,
   BookNow,
   PreviousProjects,
+  Services,
+  ServicesItems,
 };

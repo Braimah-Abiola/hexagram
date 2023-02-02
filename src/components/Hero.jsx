@@ -1,9 +1,9 @@
 import styles from "../style"
-import {discount, heroimg} from "../assets"
+import {discount, heroimg, heroimg2} from "../assets"
 import BookCall from "./BookCall"
 
 const Hero = () =>  (
-    <section id='home' className={`flex md:flex-row flex-col ${styles.paddingY}`}>
+    <section id='home' className={`flex md:flex-row flex-col ${styles.paddingY2}`}>
       <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6`}>
         <div className="flex flex-row items-center py-[6px] px-4 bg-discount-gradient rounded-[10px]">
           <img src={discount} alt="discount" className="h-[32px] w-[32px]"/>
@@ -24,17 +24,17 @@ const Hero = () =>  (
         </div>
 
         <p className={`${styles.paragraph} max-w-[550px] mt-6`}>
-        Enver studio is a digital studio that offers several content creation services such as creating TikTok videos, YouTube shorts, Instagram reels as well as account management.
+          Hexagram studio is an online digital agency that elevates brands with creative short form content. Let us help you grow your online presence today!
         </p>
 
       <div className="mt-10">
-        <BookCall/>
-      </div>
         
+      </div>
+        <BookCall/>
       </div>
     
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={heroimg} alt="billing" className="w-[100%] h-[100%]relative z-[5]" />
+        <img id="bannerimg" src={heroimg} alt="billing" className="w-[85%] h-[85%]relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[1] w-[80%] h-[80%] rounded-full white__gradient bottom-40" />

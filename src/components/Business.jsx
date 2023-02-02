@@ -25,9 +25,7 @@ const Business = () =>  (
         Why is Hexagram the<br className="sm:block hidden" /> best choice?
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+        Our online agency offers tailored, high-quality content creation for TikTok, YouTube Shorts, and Instagram Reels. Experienced, cost-effective, wide reach, efficient and strong support network.
       </p>
 
       <Button styles={`mt-10`} />
