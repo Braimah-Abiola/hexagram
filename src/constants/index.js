@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, tt, fb, yt, ig, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -10,8 +10,8 @@ export const navLinks = [
     title: "Features",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "work",
+    title: "Work",
   },
   {
     id: "clients",
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Youtuber",
+      "As a content creator, time is always at a premium. But with Hexagram, I no longer have to sacrifice quality for speed. Their team of experts has helped me produce short form content that truly stands out.",
+    name: "Alex Hormozi",
+    title: "Entrepreneur / Youtuber",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Podcaster",
+    "Working with Hexagram has completely transformed the way I approach content creation. Their expertise in short form content has helped me reach a wider audience and grow my online presence.",
+    name: "Iman Gadzhi",
+    title: "Entrepreneur / Youtuber",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder",
+    "I was skeptical at first, but Hexagram truly delivered on their promise of helping me create more engaging and shareable content. My followers have never been more engaged and I couldn't be happier with the results.",
+    name: "Brandon Carter",
+    title: "Personal Trainer / Youtuber",
     img: people03,
   },
 ];
@@ -114,18 +114,18 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: yt,
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: fb,
   },
   {
     id: "client-3",
-    logo: coinbase,
+    logo: tt,
   },
   {
     id: "client-4",
-    logo: dropbox,
+    logo: ig,
   },
 ];

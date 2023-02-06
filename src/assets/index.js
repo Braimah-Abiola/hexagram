@@ -1,9 +1,5 @@
-import airbnb from "./airbnb.png";
 import bill from "./bill.png";
-import binance from "./binance.png";
 import card from "./card.png";
-import coinbase from "./coinbase.png";
-import dropbox from "./dropbox.png";
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
 import heroimg2 from "./heroimg2.png";
@@ -33,14 +29,22 @@ import abstract02 from "./abstract02.svg"
 import podcast from "./podcast.svg"
 import tiktok from "./tiktok.svg"
 import shorts from "./shorts.svg"
+import vid1 from "./vid1.mp4"
+import vid2 from "./vid2.mp4"
+import vid3 from "./vid3.mp4"
+import ig from "./ig.png"
+import fb from "./fb.png"
+import yt from "./yt.png"
+import tt from "./tt.png"
+
 
 export {
-  airbnb,
+  tt,
+  yt,
+  fb,
+  ig,
   bill,
-  binance,
   card,
-  coinbase,
-  dropbox,
   logo,
   quotes,
   heroimg,
@@ -70,4 +74,7 @@ export {
   podcast,
   shorts,
   tiktok,
+  vid1,
+  vid2,
+  vid3,
 };

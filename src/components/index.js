@@ -1,6 +1,4 @@
 import Navbar from "./Navbar";
-import Billing from "./Billing";
-import CardDeal from "./CardDeal";
 import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
@@ -15,11 +13,10 @@ import BookNow from "./BookNow";
 import PreviousProjects from "./PreviousProjects";
 import Services from "./Services";
 import ServicesItems from "./ServicesItems";
+import SeeMoreButton from "./SeeMoreButton";
 
 export {
   Navbar,
-  Billing,
-  CardDeal,
   Business,
   Clients,
   CTA,
@@ -34,4 +31,5 @@ export {
   PreviousProjects,
   Services,
   ServicesItems,
-};
+  SeeMoreButton,
+  };

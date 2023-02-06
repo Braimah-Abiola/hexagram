@@ -21,7 +21,7 @@
 .text-gradient {
   background: radial-gradient(
     64.18% 64.18% at 71.16% 35.69%,
-    #DEDEFF 0.89%,
+    #bfbfe6 3.89%,
     #9898D6 17.23%,
     #9898D6 42.04%,
     #7E7ED5 55.12%,
@@ -170,33 +170,6 @@
   color: #5454D4;
 }
 
-.modal-overlay {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.5);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  z-index: 9999;
-}
-
-.modal {
-  background-color: white;
-  border-radius: 5px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  overflow: hidden;
-  width: 58%;
-  height: 70%;
-  z-index: 10000;
-}
-
-.close-button {
-  position: absolute;
-  right: 10px;
-  top: 10px;
-  cursor: pointer;
-  z-index: 10001;
+iframe{
+  background-color: transparent;  
 }
